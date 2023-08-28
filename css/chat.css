@@ -55,12 +55,14 @@
   margin-bottom: 25px;
 }
 
-.message-row img {
+/*.message-row img {
   width: 50px;
   height: 50px;
   border-radius: 50%;
   margin-right: 10px;
 }
+*/
+
 
 .message__author {
   margin-bottom: 5px;
@@ -77,6 +79,12 @@
   padding: 13px;
   font-size: 18px;
   border-radius: 15px;
+  border-top-left-radius: 0px;
+  margin-right: 5px;
+}
+.message__bubble1 {
+  background-color: white;
+  padding: 13px;
   border-top-left-radius: 0px;
   margin-right: 5px;
 }
