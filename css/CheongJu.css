@@ -1,0 +1,18 @@
+.logo{
+    width: 250px;
+    height: 150px;
+}
+.chat{
+    width: 30px;
+    height: 30px;
+}
+.bodyscr{
+    background-image: url('imges/img2.jpg');
+}
+.splslogo{
+    margin-left: 175px;
+    margin-bottom: 400px;
+    display: flex;
+    width: 150px;
+    height: 150px;
+}
